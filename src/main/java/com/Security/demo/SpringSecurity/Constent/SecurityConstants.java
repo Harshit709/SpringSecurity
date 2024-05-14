@@ -1,0 +1,7 @@
+package com.Security.demo.SpringSecurity.Constent;
+
+public interface SecurityConstants {
+    public static final String JWT_KEY = "jxgEQeXHuPq8VdbyYFNkANdudQ53YUn4";
+    public static final String JWT_HEADER = "Authorization";
+
+}
